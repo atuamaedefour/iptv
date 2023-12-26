@@ -16,7 +16,7 @@ TVI -
 #EXTINF:-1 group-title="TV" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjMgOToxMjo1MyBQTSZoYXNoX3ZhbHVlPUhaRzNYRjhIMy9qUVAxeE4yODRrMFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jNGY0MjM1MS03MjFjLTQ2ZTMtYmQ4NC1iOTc4ZjU2MTNmNTQ=/
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/13456
 Sic Noticias -
 #EXTINF:-1 group-title="TV" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
 #KODIPROP:inputstream=inputstream.adaptive
